@@ -1,4 +1,4 @@
-iFish
+Foodie
 =====
 
-It's my iFish repository
+It's coming soon
